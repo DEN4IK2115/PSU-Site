@@ -8,13 +8,13 @@
 						<span>Путевод</span>
 					</a>
 				</div>
-<!--				
+<!--
 				<div id="about">
 					<a href="" title="Узнать больше о достопримечательностях">Достопримечательности</a>
 					<a href="" title="Где поесть">Рестораны</a>
 				</div>
--->				
-<!--				
+-->
+<!--
                 <div id="reg_auth">
 					<a href="" title="Войти в кабинет пользователя">
 						<div id="btn">
@@ -37,14 +37,14 @@
 					<a href="/restaurant">Поесть</a>
 					<a href="/relax">Отдохнуть</a>
 				</div>
-<!--				
+<!--
 				<div id="search">
 					<span>Поиск</span>
 					<i class="fas fa-search"></i>
 				</div>
--->				
+-->
 			</nav>
-	
+
 	<!-- jQuery -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	<script>
@@ -54,7 +54,7 @@
 			else
 				$('mobileMenu').show();
 		});
-		
+
 		$(document).scroll (function () {
 			if($(document).scrollTop() > $('header').height () + 10)
 				$('nav').addClass('fixed');
@@ -64,3 +64,17 @@
 	</script>
 </body>
 </html>
+
+
+<!--
+				<div id="search">
+					<span>Поиск</span>
+					<i class="fas fa-search"></i>
+				</div>
+-->
+<!--
+				<div id="search">
+					<span>Поиск</span>
+					<i class="fas fa-search"></i>
+				</div>
+-->	
