@@ -85,6 +85,12 @@
 					<i class="fas fa-search"></i>
 				</div>
 -->	
+<!--
+				<div id="search">
+					<span>Поиск</span>
+					<i class="fas fa-search"></i>
+				</div>
+-->	
 =======
 <!DOCTYPE html>
 <html>
